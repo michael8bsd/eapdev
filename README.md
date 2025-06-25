@@ -4,15 +4,6 @@
 
 This project uses SQL to analyze the dataset of an online music store. The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
-## Installation
-
-To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below:
-1. Create a database.
-2. Create tables using the schema diagram provided below.
-3. Import csv files provided in the <a href="https://github.com/michael8e/Music-Store-Analysis/tree/main/dataset">dataset</a> folder.
-
-Note: If you are using PostgreSQL then restore the <a href="https://github.com/michael8e/Music-Store-Analysis/blob/main/music_store_db_backup">backup</a> file of the database and save yourself some time.
-
 <!-- ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
