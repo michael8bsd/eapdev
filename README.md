@@ -13,8 +13,6 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 
 You can use this dataset to build your own project and practice your SQL skills.
 
----
-
 ## Badges
 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
