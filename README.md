@@ -4,16 +4,6 @@
 
 This project uses SQL to analyze the dataset of an online music store. The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
 
-<!-- ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![schema](MusicDatabaseSchema.png)
-    ``` -->
-
 ## Database and Tools
 
 * Postgre SQL
